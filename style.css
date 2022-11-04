@@ -1,0 +1,14 @@
+body{
+    background-color:peru; 
+ 
+     }
+ 
+ hr{
+     
+     border-style:dotted none none;
+     height: 0%;
+     width: 40%;
+ border-color:black;
+ border-width :4px ; 
+ border-radius:0px;
+ }
